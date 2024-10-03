@@ -1,0 +1,20 @@
+C:\Users\Алимжан\Desktop\C#\12 week SRO\12sro\12sro\bin\Debug\12sro.exe.config
+C:\Users\Алимжан\Desktop\C#\12 week SRO\12sro\12sro\bin\Debug\12sro.exe
+C:\Users\Алимжан\Desktop\C#\12 week SRO\12sro\12sro\bin\Debug\12sro.pdb
+C:\Users\Алимжан\Desktop\C#\12 week SRO\12sro\12sro\obj\Debug\12sro.csproj.AssemblyReference.cache
+C:\Users\Алимжан\Desktop\C#\12 week SRO\12sro\12sro\obj\Debug\_12sro.Form1.resources
+C:\Users\Алимжан\Desktop\C#\12 week SRO\12sro\12sro\obj\Debug\_12sro.Properties.Resources.resources
+C:\Users\Алимжан\Desktop\C#\12 week SRO\12sro\12sro\obj\Debug\12sro.csproj.GenerateResource.cache
+C:\Users\Алимжан\Desktop\C#\12 week SRO\12sro\12sro\obj\Debug\12sro.csproj.CoreCompileInputs.cache
+C:\Users\Алимжан\Desktop\C#\12 week SRO\12sro\12sro\obj\Debug\12sro.exe
+C:\Users\Алимжан\Desktop\C#\12 week SRO\12sro\12sro\obj\Debug\12sro.pdb
+C:\Алим\2 курс 1 семестр\C#\12 week SRO\12sro\12sro\bin\Debug\12sro.exe.config
+C:\Алим\2 курс 1 семестр\C#\12 week SRO\12sro\12sro\bin\Debug\12sro.exe
+C:\Алим\2 курс 1 семестр\C#\12 week SRO\12sro\12sro\bin\Debug\12sro.pdb
+C:\Алим\2 курс 1 семестр\C#\12 week SRO\12sro\12sro\obj\Debug\12sro.csproj.AssemblyReference.cache
+C:\Алим\2 курс 1 семестр\C#\12 week SRO\12sro\12sro\obj\Debug\_12sro.Form1.resources
+C:\Алим\2 курс 1 семестр\C#\12 week SRO\12sro\12sro\obj\Debug\_12sro.Properties.Resources.resources
+C:\Алим\2 курс 1 семестр\C#\12 week SRO\12sro\12sro\obj\Debug\12sro.csproj.GenerateResource.cache
+C:\Алим\2 курс 1 семестр\C#\12 week SRO\12sro\12sro\obj\Debug\12sro.csproj.CoreCompileInputs.cache
+C:\Алим\2 курс 1 семестр\C#\12 week SRO\12sro\12sro\obj\Debug\12sro.exe
+C:\Алим\2 курс 1 семестр\C#\12 week SRO\12sro\12sro\obj\Debug\12sro.pdb

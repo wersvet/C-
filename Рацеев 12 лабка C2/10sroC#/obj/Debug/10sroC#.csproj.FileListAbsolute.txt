@@ -1,0 +1,30 @@
+C:\Users\Алимжан\Desktop\C#\10 SRO\10sroC#\10sroC#\bin\Debug\10sroC#.exe.config
+C:\Users\Алимжан\Desktop\C#\10 SRO\10sroC#\10sroC#\bin\Debug\10sroC#.exe
+C:\Users\Алимжан\Desktop\C#\10 SRO\10sroC#\10sroC#\bin\Debug\10sroC#.pdb
+C:\Users\Алимжан\Desktop\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.csproj.AssemblyReference.cache
+C:\Users\Алимжан\Desktop\C#\10 SRO\10sroC#\10sroC#\obj\Debug\_10sroC_.Form1.resources
+C:\Users\Алимжан\Desktop\C#\10 SRO\10sroC#\10sroC#\obj\Debug\_10sroC_.Properties.Resources.resources
+C:\Users\Алимжан\Desktop\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.csproj.GenerateResource.cache
+C:\Users\Алимжан\Desktop\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.csproj.CoreCompileInputs.cache
+C:\Users\Алимжан\Desktop\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.exe
+C:\Users\Алимжан\Desktop\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.pdb
+D:\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\bin\Debug\10sroC#.exe.config
+D:\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\bin\Debug\10sroC#.exe
+D:\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\bin\Debug\10sroC#.pdb
+D:\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.csproj.AssemblyReference.cache
+D:\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\obj\Debug\_10sroC_.Form1.resources
+D:\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\obj\Debug\_10sroC_.Properties.Resources.resources
+D:\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.csproj.GenerateResource.cache
+D:\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.csproj.CoreCompileInputs.cache
+D:\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.exe
+D:\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.pdb
+C:\Алим\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\bin\Debug\10sroC#.exe.config
+C:\Алим\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\bin\Debug\10sroC#.exe
+C:\Алим\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\bin\Debug\10sroC#.pdb
+C:\Алим\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.csproj.AssemblyReference.cache
+C:\Алим\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\obj\Debug\_10sroC_.Form1.resources
+C:\Алим\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\obj\Debug\_10sroC_.Properties.Resources.resources
+C:\Алим\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.csproj.GenerateResource.cache
+C:\Алим\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.csproj.CoreCompileInputs.cache
+C:\Алим\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.exe
+C:\Алим\2 курс 1 семестр\C#\10 SRO\10sroC#\10sroC#\obj\Debug\10sroC#.pdb

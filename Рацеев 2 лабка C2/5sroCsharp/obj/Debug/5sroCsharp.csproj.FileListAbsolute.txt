@@ -1,0 +1,20 @@
+C:\Users\Алимжан\Desktop\C#\5 sro C#\5sroCsharp\5sroCsharp\bin\Debug\5sroCsharp.exe.config
+C:\Users\Алимжан\Desktop\C#\5 sro C#\5sroCsharp\5sroCsharp\bin\Debug\5sroCsharp.exe
+C:\Users\Алимжан\Desktop\C#\5 sro C#\5sroCsharp\5sroCsharp\bin\Debug\5sroCsharp.pdb
+C:\Users\Алимжан\Desktop\C#\5 sro C#\5sroCsharp\5sroCsharp\obj\Debug\5sroCsharp.csproj.AssemblyReference.cache
+C:\Users\Алимжан\Desktop\C#\5 sro C#\5sroCsharp\5sroCsharp\obj\Debug\_5sroCsharp.Form1.resources
+C:\Users\Алимжан\Desktop\C#\5 sro C#\5sroCsharp\5sroCsharp\obj\Debug\_5sroCsharp.Properties.Resources.resources
+C:\Users\Алимжан\Desktop\C#\5 sro C#\5sroCsharp\5sroCsharp\obj\Debug\5sroCsharp.csproj.GenerateResource.cache
+C:\Users\Алимжан\Desktop\C#\5 sro C#\5sroCsharp\5sroCsharp\obj\Debug\5sroCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Алимжан\Desktop\C#\5 sro C#\5sroCsharp\5sroCsharp\obj\Debug\5sroCsharp.exe
+C:\Users\Алимжан\Desktop\C#\5 sro C#\5sroCsharp\5sroCsharp\obj\Debug\5sroCsharp.pdb
+D:\2 курс 1 семестр\C#\5 sro C#\5sroCsharp\5sroCsharp\bin\Debug\5sroCsharp.exe.config
+D:\2 курс 1 семестр\C#\5 sro C#\5sroCsharp\5sroCsharp\bin\Debug\5sroCsharp.exe
+D:\2 курс 1 семестр\C#\5 sro C#\5sroCsharp\5sroCsharp\bin\Debug\5sroCsharp.pdb
+D:\2 курс 1 семестр\C#\5 sro C#\5sroCsharp\5sroCsharp\obj\Debug\5sroCsharp.csproj.AssemblyReference.cache
+D:\2 курс 1 семестр\C#\5 sro C#\5sroCsharp\5sroCsharp\obj\Debug\_5sroCsharp.Form1.resources
+D:\2 курс 1 семестр\C#\5 sro C#\5sroCsharp\5sroCsharp\obj\Debug\_5sroCsharp.Properties.Resources.resources
+D:\2 курс 1 семестр\C#\5 sro C#\5sroCsharp\5sroCsharp\obj\Debug\5sroCsharp.csproj.GenerateResource.cache
+D:\2 курс 1 семестр\C#\5 sro C#\5sroCsharp\5sroCsharp\obj\Debug\5sroCsharp.csproj.CoreCompileInputs.cache
+D:\2 курс 1 семестр\C#\5 sro C#\5sroCsharp\5sroCsharp\obj\Debug\5sroCsharp.exe
+D:\2 курс 1 семестр\C#\5 sro C#\5sroCsharp\5sroCsharp\obj\Debug\5sroCsharp.pdb

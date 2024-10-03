@@ -1,0 +1,20 @@
+C:\Users\Алимжан\Desktop\C#\6 sro C#\6sroCsharp\6sroCsharp\bin\Debug\6sroCsharp.exe.config
+C:\Users\Алимжан\Desktop\C#\6 sro C#\6sroCsharp\6sroCsharp\bin\Debug\6sroCsharp.exe
+C:\Users\Алимжан\Desktop\C#\6 sro C#\6sroCsharp\6sroCsharp\bin\Debug\6sroCsharp.pdb
+C:\Users\Алимжан\Desktop\C#\6 sro C#\6sroCsharp\6sroCsharp\obj\Debug\6sroCsharp.csproj.AssemblyReference.cache
+C:\Users\Алимжан\Desktop\C#\6 sro C#\6sroCsharp\6sroCsharp\obj\Debug\_6sroCsharp.Form1.resources
+C:\Users\Алимжан\Desktop\C#\6 sro C#\6sroCsharp\6sroCsharp\obj\Debug\_6sroCsharp.Properties.Resources.resources
+C:\Users\Алимжан\Desktop\C#\6 sro C#\6sroCsharp\6sroCsharp\obj\Debug\6sroCsharp.csproj.GenerateResource.cache
+C:\Users\Алимжан\Desktop\C#\6 sro C#\6sroCsharp\6sroCsharp\obj\Debug\6sroCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Алимжан\Desktop\C#\6 sro C#\6sroCsharp\6sroCsharp\obj\Debug\6sroCsharp.exe
+C:\Users\Алимжан\Desktop\C#\6 sro C#\6sroCsharp\6sroCsharp\obj\Debug\6sroCsharp.pdb
+C:\Алим\2 курс 1 семестр\C#\6 sro C#\6sroCsharp\6sroCsharp\bin\Debug\6sroCsharp.exe.config
+C:\Алим\2 курс 1 семестр\C#\6 sro C#\6sroCsharp\6sroCsharp\bin\Debug\6sroCsharp.exe
+C:\Алим\2 курс 1 семестр\C#\6 sro C#\6sroCsharp\6sroCsharp\bin\Debug\6sroCsharp.pdb
+C:\Алим\2 курс 1 семестр\C#\6 sro C#\6sroCsharp\6sroCsharp\obj\Debug\6sroCsharp.csproj.AssemblyReference.cache
+C:\Алим\2 курс 1 семестр\C#\6 sro C#\6sroCsharp\6sroCsharp\obj\Debug\_6sroCsharp.Form1.resources
+C:\Алим\2 курс 1 семестр\C#\6 sro C#\6sroCsharp\6sroCsharp\obj\Debug\_6sroCsharp.Properties.Resources.resources
+C:\Алим\2 курс 1 семестр\C#\6 sro C#\6sroCsharp\6sroCsharp\obj\Debug\6sroCsharp.csproj.GenerateResource.cache
+C:\Алим\2 курс 1 семестр\C#\6 sro C#\6sroCsharp\6sroCsharp\obj\Debug\6sroCsharp.csproj.CoreCompileInputs.cache
+C:\Алим\2 курс 1 семестр\C#\6 sro C#\6sroCsharp\6sroCsharp\obj\Debug\6sroCsharp.exe
+C:\Алим\2 курс 1 семестр\C#\6 sro C#\6sroCsharp\6sroCsharp\obj\Debug\6sroCsharp.pdb

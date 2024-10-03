@@ -1,0 +1,30 @@
+C:\Users\Алимжан\Desktop\C#\8 week SRO\8sro\8sro\bin\Debug\8sro.exe.config
+C:\Users\Алимжан\Desktop\C#\8 week SRO\8sro\8sro\bin\Debug\8sro.exe
+C:\Users\Алимжан\Desktop\C#\8 week SRO\8sro\8sro\bin\Debug\8sro.pdb
+C:\Users\Алимжан\Desktop\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.csproj.AssemblyReference.cache
+C:\Users\Алимжан\Desktop\C#\8 week SRO\8sro\8sro\obj\Debug\_8sro.Form1.resources
+C:\Users\Алимжан\Desktop\C#\8 week SRO\8sro\8sro\obj\Debug\_8sro.Properties.Resources.resources
+C:\Users\Алимжан\Desktop\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.csproj.GenerateResource.cache
+C:\Users\Алимжан\Desktop\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.csproj.CoreCompileInputs.cache
+C:\Users\Алимжан\Desktop\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.exe
+C:\Users\Алимжан\Desktop\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.pdb
+D:\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\bin\Debug\8sro.exe.config
+D:\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\bin\Debug\8sro.exe
+D:\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\bin\Debug\8sro.pdb
+D:\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.csproj.AssemblyReference.cache
+D:\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\obj\Debug\_8sro.Form1.resources
+D:\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\obj\Debug\_8sro.Properties.Resources.resources
+D:\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.csproj.GenerateResource.cache
+D:\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.csproj.CoreCompileInputs.cache
+D:\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.exe
+D:\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.pdb
+C:\Алим\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\bin\Debug\8sro.exe.config
+C:\Алим\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\bin\Debug\8sro.exe
+C:\Алим\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\bin\Debug\8sro.pdb
+C:\Алим\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.csproj.AssemblyReference.cache
+C:\Алим\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\obj\Debug\_8sro.Form1.resources
+C:\Алим\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\obj\Debug\_8sro.Properties.Resources.resources
+C:\Алим\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.csproj.GenerateResource.cache
+C:\Алим\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.csproj.CoreCompileInputs.cache
+C:\Алим\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.exe
+C:\Алим\2 курс 1 семестр\C#\8 week SRO\8sro\8sro\obj\Debug\8sro.pdb
